@@ -23,5 +23,6 @@
 5. Modulo de Reportes.
 
 
-NOTA: Eliuth esto es lo que llevo por ahora, aún falta por analizar mas temas.
-El valor de la hora por ahora lo tengo en $45.000
+> NOTA: Eliuth esto es lo que llevo por ahora, aún falta por analizar mas temas.
+
+> El valor de la hora por ahora lo tengo en $45.000
